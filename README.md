@@ -73,7 +73,12 @@ Read our [contributing guide](https://legacy.reactjs.org/docs/how-to-contribute.
 
 To help you get your feet wet and get you familiar with our contribution process, we have a list of [good first issues](https://github.com/facebook/react/labels/good%20first%20issue) that contain bugs that have a relatively limited scope. This is a great place to get started.
 
+# Flatiron School
+This file has been edited by LucidDeveloper <Gianni M Javier>
+Update for Dev Branch
+Update for Dev Lucid Branch
+
 ### License
 
 React is [MIT licensed](./LICENSE).
-This file has been edited by LucidDeveloper <Gianni M Javier>
+
